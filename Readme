@@ -1,0 +1,4 @@
+#Packages install
+cv2
+mediapipe
+pyautogui
